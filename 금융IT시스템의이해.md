@@ -46,4 +46,4 @@
 
 ---
 
-출처: [\[한은금요강좌\] 금융 IT 시스템의 이해(2018.05.25)](ttps://www.youtube.com/watch?v=82V_d7Ft1ps&t=103s)
+출처: [\[한은금요강좌\] 금융 IT 시스템의 이해(2018.05.25)](https://www.youtube.com/watch?v=82V_d7Ft1ps&t=103s)
